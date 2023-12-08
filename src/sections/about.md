@@ -1,6 +1,6 @@
 ---
-title: AWE.SOME Heading
+title: Accessible Tech Support
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+CALM Computers focuses on getting your tech problem solved quickly and without all the techno-babble. We're upfront about pricing, availability, and effort so you can make confident decisions about your tech.

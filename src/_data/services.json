@@ -1,0 +1,22 @@
+[
+  {
+    "title": "IT Consulting",
+    "icon": "icon2.svg",
+    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+  },
+  {
+    "title": "Websites and hosting",
+    "icon": "icon1.svg",
+    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+  },
+  {
+    "title": "End User Support",
+    "icon": "icon3.svg",
+    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+  },
+  {
+    "title": "Server Maintenance",
+    "icon": "icon4.svg",
+    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+  }
+]

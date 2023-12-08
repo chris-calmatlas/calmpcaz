@@ -1,0 +1,13 @@
+{% for item in collections.sections %}
+  {% if item.data.type === 'gethelp' %}
+    <div id="gethelp" class="w-full min-h-screen flex flex-col justify-center items-center bg-gray-800">
+      <div class="self-center text-center w-full xl:w-1/2 px-4 sm:px:0">
+        <h2 class="font-bold tracking-widest text-gray-200 text-4xl mb-4 mt-6">{{ item.data.title }}</h2>
+        <div class="font-light text-gray-400 text-xl">
+          {{ item.templateContent | safe }}
+        </div>
+        {% include "zohoForm.njk" %}
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
