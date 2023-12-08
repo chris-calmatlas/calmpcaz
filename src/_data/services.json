@@ -2,21 +2,21 @@
   {
     "title": "IT Consulting",
     "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "There are many ways to accomplish things in IT, but they aren't all good ways. Move forward with secure, maintenable solutions and save some money in the long run."
   },
   {
     "title": "Websites and hosting",
     "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Build a web presence, update your existing website, fix existing problems, and get help hosting with any vendor."
   },
   {
     "title": "End User Support",
     "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Technology is a tool that helps us be productive. Don't let end user IT problems slow down productivity. Get in touch about your IT problem and let's discuss what we can do to help."
   },
   {
     "title": "Server Maintenance",
     "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Infrastructure needs care or it will crumble. How long have your servers been running and when was their last update? Let me help get you up to speed."
   }
 ]
